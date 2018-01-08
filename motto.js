@@ -9,7 +9,8 @@
 	"Aquí no se cae el sistema",
 	"リサフランク420 / 現代のコンピュー",
 	"Johnny 100 Chauchas",
-	"Make Chaucha Great Again"
+	"Make Chaucha Great Again",
+	"🤘😎👍"
 	];
 
 	function refresh () {
